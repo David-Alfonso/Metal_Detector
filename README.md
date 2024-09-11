@@ -1,4 +1,4 @@
-# Metal_Detector
+# Metal Detector, an Embbeded System using C
 
 This repository contains two distinct implementations of a **metal detector** project, both solving the same problem using different approaches. Each project is housed in its own folder and detects metal by sending a sine wave through a **transmitter coil** and monitoring the resulting wave through a **receiver coil**. When metal is present, the wave pattern changes, and the system detects this variation. It uses a PIC microcontroller.
 
