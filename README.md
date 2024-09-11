@@ -4,12 +4,12 @@ This repository contains two distinct implementations of a **metal detector** pr
 
 ## Table of Contents
 
-- [Project Overview](##project-overview)
-- [Repository Structure](##repository-structure)
-- [How It Works](##how-it-works)
-- [Analog Approach (UART)](##analog-approach-uart)
-- [Digital Approach (Nextion UI)](##digital-approach-nextion-ui)
-- [Getting Started](##getting-started)
+- [Project Overview](#project-overview)
+- [Repository Structure](#repository-structure)
+- [How It Works](#how-it-works)
+- [Analog Approach (UART)](#analog-approach-uart)
+- [Digital Approach (Nextion UI)](#digital-approach-nextion-ui)
+- [Getting Started](#getting-started)
 
 ## Project Overview
 
